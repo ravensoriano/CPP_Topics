@@ -1,3 +1,8 @@
+// Topic: Encapsulation in C++
+// Synopsis: Program that use Encapsulation to provide an information about the album.
+// Author: Raven Soriano
+
+
 #include <iostream>
 #include <string>
 using namespace std;
